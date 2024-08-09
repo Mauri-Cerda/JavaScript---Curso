@@ -23,9 +23,7 @@ Las bibliotecas de JavaScript son colecciones de fragmentos de código escritos 
 A continuación, se muestran casos de uso comunes de bibliotecas de JavaScript:
 
 * Visualización de datos
-La visualización de datos es fundamental para que los usuarios puedan ver estadísticas, por ejemplo, en el panel de administrador o en otros paneles y métricas de rendimiento.
-
-Bibliotecas como Chart.js, ApexCharts y Algolia Places cuentan con funciones integradas que puede utilizar para crear aplicaciones web que muestren datos en gráficos y mapas.
+La visualización de datos es fundamental para que los usuarios puedan ver estadísticas, por ejemplo, en el panel de administrador o en otros paneles y métricas de rendimiento. Bibliotecas como Chart.js, ApexCharts y Algolia Places cuentan con funciones integradas que puede utilizar para crear aplicaciones web que muestren datos en gráficos y mapas.
 
 * Manipulación de DOM
 Puede utilizar bibliotecas, como jQuery y Umbrella JS, para facilitar el desarrollo web, ya que brindan código para funciones estándar de sitios web, como animaciones de menús, galerías de imágenes, botones, lightboxes y mucho más.
